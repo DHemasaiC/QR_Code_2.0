@@ -44,3 +44,12 @@ Built as a production-style backend application emphasizing **Python engineering
 ---
 
 ## 📂 Project Structure
+
+QR_Code_2.0/
+│
+├── app.py # Flask application entry point
+├── device_data.csv # Current device ownership data
+├── device_history.csv # Historical ownership log
+├── templates/ # HTML templates
+├── static/ # Static assets
+└── README.md # Project documentation
